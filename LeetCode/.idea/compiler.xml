@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/JavaEight/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/JavaEightTesting/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JavaEightTest" />
+        <module name="LeetCode75" />
+        <module name="LeetCodeTop100" />
         <module name="DataStructure" />
-        <module name="GeekForGeeks" />
+        <module name="playground" />
+        <module name="GrokkingJavaInterviewPatterns" />
+        <module name="JavaEightTesting" />
+        <module name="JavaEight123" />
+        <module name="EducativeDataStructure" />
+        <module name="condigpatterns" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DataStructure" target="16" />
-      <module name="GeekForGeeks" target="16" />
+      <module name="JavaEight" target="18" />
+      <module name="untitled" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
