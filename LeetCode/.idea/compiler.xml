@@ -12,6 +12,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaEightTest" />
         <module name="LeetCode75" />
+        <module name="LeetCode150" />
         <module name="LeetCodeTop100" />
         <module name="DataStructure" />
         <module name="playground" />
