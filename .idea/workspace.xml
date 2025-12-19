@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5464f0ba-e179-4f05-a585-dce621f448a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/recursion/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/recursion/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/AnonymousClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/FunctionalInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/ImmutableEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/TransactionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystemService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/DeliveryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/StatusUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/Departments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/ProductMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/java_8_stream_real_world_problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/onlineexamattempttracker/ExamAttempt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/oop_real_world_questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/oop_realworld_based_questions_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/chatgpt/practice/modules/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/chatgpt/practice/modules/MaximumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/FirstNonRepeatingIntegerInAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/ProductOfSelfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/RotateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/test.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="349KdGIbfRuhjzcGlD38IKtIG1S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Coding_Practice/gfg/LeetCode150/src/main/java/org/biswajit/javaeight",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding_Practice\gfg\LeetCode150\src\main\java\org\biswajit\javaeight" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding_Practice\gfg\LeetCode150\src\main\java\org\biswajit\javaeight" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoggingSystemMain">
+    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.highestpaidemployee.EmployeeMain" />
+      <module name="LeetCode150" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.biswajit.javaeight.highestpaidemployee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggingSystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.errorloganalysis.LoggingSystemMain" />
+      <module name="LeetCode150" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.biswajit.javaeight.errorloganalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.inventorylowstockmonitoring.ProductMain" />
+      <module name="LeetCode150" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.biswajit.javaeight.inventorylowstockmonitoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.duplicatetransactiondetection.TransactionMain" />
+      <module name="LeetCode150" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.biswajit.javaeight.duplicatetransactiondetection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.websocket.WebSocketDemo.WebSocketDemoApplication" />
+      <module name="WebSocketDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.websocket.WebSocketDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoggingSystemMain" />
+        <item itemvalue="Application.ProductMain" />
+        <item itemvalue="Application.TransactionMain" />
+        <item itemvalue="Application.EmployeeMain" />
+        <item itemvalue="Application.WebSocketDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5464f0ba-e179-4f05-a585-dce621f448a7" name="Changes" comment="" />
+      <created>1760620433071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760620433071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
