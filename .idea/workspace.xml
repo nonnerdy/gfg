@@ -5,44 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5464f0ba-e179-4f05-a585-dce621f448a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/recursion/GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/recursion/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/AnonymousClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/FunctionalInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/ImmutableEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/TransactionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/duplicatetransactiondetection/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystemMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/errorloganalysis/LoggingSystemService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/DeliveryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/fooddelivery/StatusUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/Departments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/highestpaidemployee/EmployeeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/inventorylowstockmonitoring/ProductMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/java_8_stream_real_world_problems.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/onlineexamattempttracker/ExamAttempt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/oop_real_world_questions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/oop_realworld_based_questions_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/chatgpt/practice/modules/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/chatgpt/practice/modules/MaximumSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/FirstNonRepeatingIntegerInAnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/ProductOfSelfArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/RotateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/array/test.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/aggregateusingreduce/CustomerPurchaseDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/aggregateusingreduce/CustomerPurchaseDetailsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/aggregateusingreduce/CustomerPurchaseDetailsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/apiperformancemonitoring/ApiStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/apiperformancemonitoring/ApiStatusDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/apiperformancemonitoring/ApiStatusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/averagecartvalueperuer/UserCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/averagecartvalueperuer/UserCartDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/averagecartvalueperuer/UserCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/distinctitemspurchased/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/distinctitemspurchased/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/distinctitemspurchased/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/distinctitemspurchased/OrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/extractuniquecitiessafely/UserProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/extractuniquecitiessafely/UserProfileDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/extractuniquecitiessafely/UserProfileMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/java_8_streams_problems_21_to_40_real_world_interview_grade.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/mostactiveuser/UserEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/mostactiveuser/UserEventDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/mostactiveuser/UserEventMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/orderstatusfunnelanalysis/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/orderstatusfunnelanalysis/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/orderstatusfunnelanalysis/OrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/orderstatusfunnelanalysis/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/paymentfailuredetection/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/paymentfailuredetection/PaymentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/paymentfailuredetection/PaymentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/productssoldinallregion/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/productssoldinallregion/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/productssoldinallregion/ProductMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/totalsessiondeurationperuser/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/totalsessiondeurationperuser/SessionDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/totalsessiondeurationperuser/SessionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/userswitincreasingpurchasetrens/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/userswitincreasingpurchasetrens/PurchaseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/userswitincreasingpurchasetrens/PurchaseMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/CustomerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/CustomerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/CustomerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/CustomerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/javaeight/customerpurchaseconsistency/Months.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode150/target/classes/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode150/target/classes/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/RepeatedDnaSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,26 +105,13 @@
       <recent name="D:\Coding_Practice\gfg\LeetCode150\src\main\java\org\biswajit\javaeight" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoggingSystemMain">
-    <configuration name="EmployeeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.highestpaidemployee.EmployeeMain" />
+  <component name="RunManager" selected="Application.SessionMain">
+    <configuration name="OrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.orderstatusfunnelanalysis.OrderMain" />
       <module name="LeetCode150" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.biswajit.javaeight.highestpaidemployee.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoggingSystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.errorloganalysis.LoggingSystemMain" />
-      <module name="LeetCode150" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.biswajit.javaeight.errorloganalysis.*" />
+          <option name="PATTERN" value="org.biswajit.javaeight.orderstatusfunnelanalysis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +120,11 @@
       </method>
     </configuration>
     <configuration name="ProductMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.inventorylowstockmonitoring.ProductMain" />
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.productssoldinallregion.ProductMain" />
       <module name="LeetCode150" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.biswajit.javaeight.inventorylowstockmonitoring.*" />
+          <option name="PATTERN" value="org.biswajit.javaeight.productssoldinallregion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransactionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.duplicatetransactiondetection.TransactionMain" />
+    <configuration name="PurchaseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.userswitincreasingpurchasetrens.PurchaseMain" />
       <module name="LeetCode150" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.biswajit.javaeight.duplicatetransactiondetection.*" />
+          <option name="PATTERN" value="org.biswajit.javaeight.userswitincreasingpurchasetrens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebSocketDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.websocket.WebSocketDemo.WebSocketDemoApplication" />
-      <module name="WebSocketDemo" />
+    <configuration name="SessionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.totalsessiondeurationperuser.SessionMain" />
+      <module name="LeetCode150" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.websocket.WebSocketDemo.*" />
+          <option name="PATTERN" value="org.biswajit.javaeight.totalsessiondeurationperuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.biswajit.javaeight.averagecartvalueperuer.UserCartMain" />
+      <module name="LeetCode150" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.biswajit.javaeight.averagecartvalueperuer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoggingSystemMain" />
+        <item itemvalue="Application.SessionMain" />
         <item itemvalue="Application.ProductMain" />
-        <item itemvalue="Application.TransactionMain" />
-        <item itemvalue="Application.EmployeeMain" />
-        <item itemvalue="Application.WebSocketDemoApplication" />
+        <item itemvalue="Application.PurchaseMain" />
+        <item itemvalue="Application.UserCartMain" />
+        <item itemvalue="Application.OrderMain" />
       </list>
     </recent_temporary>
   </component>
@@ -199,5 +205,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode150/src/main/java/org/biswajit/educative/practice/modules/codinginterviewpatterns/slidingwindow/SlidingWindowMaximum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

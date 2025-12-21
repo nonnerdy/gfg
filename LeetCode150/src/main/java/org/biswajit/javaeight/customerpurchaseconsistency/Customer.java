@@ -1,10 +1,12 @@
 package org.biswajit.javaeight.customerpurchaseconsistency;
 
+import java.time.YearMonth;
+
 public class Customer {
     private String name;
-    private Months month;
+    private YearMonth month;
 
-    public Customer(String name, Months month) {
+    public Customer(String name, YearMonth month) {
         this.name = name;
         this.month = month;
     }
@@ -17,11 +19,11 @@ public class Customer {
         this.name = name;
     }
 
-    public Months getMonth() {
+    public YearMonth getMonth() {
         return month;
     }
 
-    public void setMonth(Months month) {
+    public void setMonth(YearMonth month) {
         this.month = month;
     }
 
