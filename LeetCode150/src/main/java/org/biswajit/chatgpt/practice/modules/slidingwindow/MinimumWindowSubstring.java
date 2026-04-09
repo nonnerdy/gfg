@@ -1,8 +1,7 @@
-package org.biswajit.chatgpt.practice.modules.twopointer;
+package org.biswajit.chatgpt.practice.modules.slidingwindow;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Objects;
 
 //L-76
 public class MinimumWindowSubstring {
@@ -143,7 +142,7 @@ public class MinimumWindowSubstring {
             while(requiredFreq == 0){
 //                minLength = Math.min(minLength,(right - left)+1);
 //                start = left;
-                if(minLength < (right - left + 1)){
+                if(minLength > (right - left + 1)){
                     minLength = (right - left + 1);
                     start = left;
                 }
